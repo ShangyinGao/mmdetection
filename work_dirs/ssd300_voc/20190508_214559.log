@@ -1,0 +1,4 @@
+2019-05-08 21:45:59,154 - INFO - Start running, host: shangyingao@dl, work_dir: /home/shangyingao/Documents/mmdetection/work_dirs/ssd300_voc
+2019-05-08 21:45:59,154 - INFO - workflow: [('train', 1)], max: 24 epochs
+2019-05-08 21:46:43,783 - INFO - Epoch [1][50/41378]	lr: 0.00040, eta: 10 days, 4:59:18, time: 0.888, data_time: 0.019, memory: 9404, loss_cls: 13.1028, loss_reg: 3.0660, loss: 16.1688
+2019-05-08 21:47:05,423 - INFO - Epoch [1][100/41378]	lr: 0.00047, eta: 7 days, 14:11:55, time: 0.433, data_time: 0.011, memory: 9404, loss_cls: 8.3932, loss_reg: 2.8835, loss: 11.2767
